@@ -2,7 +2,7 @@
 # Connect-AzAccount
 
 $ResourceGroupName = "keyvaults"
-$upn = "mattshort77_live.com#EXT#@mattshort77live.onmicrosoft.com"
+$upn = ""
 
 $json = Get-Content -Path ./infrastructure.json | ConvertFrom-Json
 
