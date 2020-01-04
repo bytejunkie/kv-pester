@@ -1,0 +1,12 @@
+{
+    "keyvaults" : [
+        "devk3yv4ult",
+        "testk3yv4ult",
+        "prodk3yv4ult"
+    ],
+    "secrets" : [
+        "Secret-1",
+        "Secret-2",
+        "Secret-3"
+    ]
+}
